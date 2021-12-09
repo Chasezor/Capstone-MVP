@@ -1,0 +1,12 @@
+Pitch:
+A website with game and leaderboard API. Where players can have a competitive arcade experience. 
+
+MVP:
+User creates a player tag
+User plays web game
+User can submit score to leaderboard 
+User can delete personal score submission
+User can check the leaderboard for ranking
+
+Future Features: 
+Competitive game matchmaking based on leaderboard ranking. 
